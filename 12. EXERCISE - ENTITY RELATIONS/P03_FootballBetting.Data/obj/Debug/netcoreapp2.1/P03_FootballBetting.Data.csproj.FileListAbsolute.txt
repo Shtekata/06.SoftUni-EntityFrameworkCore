@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.csproj.CopyComplete
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.pdb

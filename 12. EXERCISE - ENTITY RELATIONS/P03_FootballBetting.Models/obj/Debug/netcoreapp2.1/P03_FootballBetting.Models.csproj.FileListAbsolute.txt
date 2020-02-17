@@ -1,0 +1,7 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Models\bin\Debug\netcoreapp2.1\P03_FootballBetting.Models.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Models\bin\Debug\netcoreapp2.1\P03_FootballBetting.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Models\bin\Debug\netcoreapp2.1\P03_FootballBetting.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Models\obj\Debug\netcoreapp2.1\P03_FootballBetting.Models.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Models\obj\Debug\netcoreapp2.1\P03_FootballBetting.Models.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Models\obj\Debug\netcoreapp2.1\P03_FootballBetting.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\12. EXERCISE - ENTITY RELATIONS\P03_FootballBetting.Models\obj\Debug\netcoreapp2.1\P03_FootballBetting.Models.pdb

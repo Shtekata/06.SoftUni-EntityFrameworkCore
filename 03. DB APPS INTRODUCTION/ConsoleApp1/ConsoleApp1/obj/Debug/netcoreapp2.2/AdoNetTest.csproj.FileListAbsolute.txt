@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\AdoNetTest.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\AdoNetTest.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\AdoNetTest.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\AdoNetTest.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\AdoNetTest.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\AdoNetTest.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\AdoNetTest.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\AdoNetTest.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\AdoNetTest.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\AdoNetTest.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\03. DB APPS INTRODUCTION\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\AdoNetTest.pdb

@@ -1,0 +1,8 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.pdb

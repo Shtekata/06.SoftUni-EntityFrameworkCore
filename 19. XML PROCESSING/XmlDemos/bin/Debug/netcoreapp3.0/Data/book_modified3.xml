@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <name>It</name>
+    <author>Stephen King</author>
+    <page>300</page>
+  </book>
+  <book>
+    <name>Frankenstein</name>
+    <author>Mary Shelley</author>
+    <page>200</page>
+  </book>
+  <book>
+    <name>The Diary of a Nobody</name>
+    <author>George Grossmith and Weeden Grossmith</author>
+    <page>150</page>
+  </book>
+  <book>
+    <name>Queen Lucia</name>
+    <author>E F Benson</author>
+    <page>700</page>
+  </book>
+  <book>
+    <name>QLucia</name>
+    <author>EBenson</author>
+    <page>750</page>
+  </book>
+</books>

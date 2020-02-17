@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <book name="It">
+    <author>Stephen King</author>
+    <page>300</page>
+  </book>
+  <book name="Frankenstein">
+    <author>Mary Shelley</author>
+    <page>200</page>
+  </book>
+  <book name="The Diary of a Nobody">
+    <author>George Grossmith and Weeden Grossmith</author>
+    <page>150</page>
+  </book>
+  <book name="Queen Lucia">
+    <author>E F Benson</author>
+    <page>700</page>
+  </book>
+  <book name="QLucia">
+    <author>EBenson</author>
+    <page>750</page>
+  </book>
+</books>

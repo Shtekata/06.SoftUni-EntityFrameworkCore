@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\bin\Debug\netcoreapp3.0\XmlDemos.exe
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\bin\Debug\netcoreapp3.0\XmlDemos.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\bin\Debug\netcoreapp3.0\XmlDemos.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\bin\Debug\netcoreapp3.0\XmlDemos.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\bin\Debug\netcoreapp3.0\XmlDemos.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\bin\Debug\netcoreapp3.0\XmlDemos.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\obj\Debug\netcoreapp3.0\XmlDemos.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\obj\Debug\netcoreapp3.0\XmlDemos.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\obj\Debug\netcoreapp3.0\XmlDemos.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\obj\Debug\netcoreapp3.0\XmlDemos.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\19. XML PROCESSING\XmlDemos\bin\Debug\netcoreapp3.0\Data\Library.xml

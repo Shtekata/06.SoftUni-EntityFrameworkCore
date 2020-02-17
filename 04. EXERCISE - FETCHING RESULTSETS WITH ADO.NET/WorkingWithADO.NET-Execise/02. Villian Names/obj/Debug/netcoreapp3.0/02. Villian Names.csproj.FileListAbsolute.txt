@@ -1,0 +1,18 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\02. Villian Names.exe
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\obj\Debug\netcoreapp3.0\02. Villian Names.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\obj\Debug\netcoreapp3.0\02. Villian Names.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\obj\Debug\netcoreapp3.0\02. Villian Names.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\02. Villian Names.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\02. Villian Names.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\02. Villian Names.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\02. Villian Names.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\02. Villian Names.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\obj\Debug\netcoreapp3.0\02. Villian Names.csproj.CopyComplete
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\obj\Debug\netcoreapp3.0\02. Villian Names.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\04. EXERCISE - FETCHING RESULTSETS WITH ADO.NET\WorkingWithADO.NET-Execise\02. Villian Names\obj\Debug\netcoreapp3.0\02. Villian Names.pdb

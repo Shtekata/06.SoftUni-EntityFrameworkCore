@@ -1,0 +1,15 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Data.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Data.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Data.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Data.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.csproj.CopyComplete
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\26. WORKSHOP2 - ASP.NET CORE\Services\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.pdb

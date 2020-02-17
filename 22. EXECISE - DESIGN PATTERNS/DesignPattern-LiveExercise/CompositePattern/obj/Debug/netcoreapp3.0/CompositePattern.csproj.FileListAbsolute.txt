@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.exe
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.pdb

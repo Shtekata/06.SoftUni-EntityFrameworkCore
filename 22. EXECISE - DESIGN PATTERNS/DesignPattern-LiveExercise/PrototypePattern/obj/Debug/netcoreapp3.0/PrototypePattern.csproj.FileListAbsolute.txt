@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\bin\Debug\netcoreapp3.0\PrototypePattern.exe
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\bin\Debug\netcoreapp3.0\PrototypePattern.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\bin\Debug\netcoreapp3.0\PrototypePattern.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\bin\Debug\netcoreapp3.0\PrototypePattern.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\bin\Debug\netcoreapp3.0\PrototypePattern.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\bin\Debug\netcoreapp3.0\PrototypePattern.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\obj\Debug\netcoreapp3.0\PrototypePattern.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\obj\Debug\netcoreapp3.0\PrototypePattern.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\obj\Debug\netcoreapp3.0\PrototypePattern.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\obj\Debug\netcoreapp3.0\PrototypePattern.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\PrototypePattern\obj\Debug\netcoreapp3.0\PrototypePattern.pdb

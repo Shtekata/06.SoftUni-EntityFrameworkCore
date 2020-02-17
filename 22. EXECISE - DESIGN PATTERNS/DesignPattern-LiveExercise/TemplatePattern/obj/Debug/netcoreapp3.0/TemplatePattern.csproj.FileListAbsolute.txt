@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\bin\Debug\netcoreapp3.0\TemplatePattern.exe
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\bin\Debug\netcoreapp3.0\TemplatePattern.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\bin\Debug\netcoreapp3.0\TemplatePattern.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\bin\Debug\netcoreapp3.0\TemplatePattern.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\bin\Debug\netcoreapp3.0\TemplatePattern.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\bin\Debug\netcoreapp3.0\TemplatePattern.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\obj\Debug\netcoreapp3.0\TemplatePattern.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\obj\Debug\netcoreapp3.0\TemplatePattern.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\obj\Debug\netcoreapp3.0\TemplatePattern.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\obj\Debug\netcoreapp3.0\TemplatePattern.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\22. EXECISE - DESIGN PATTERNS\DesignPattern-LiveExercise\TemplatePattern\obj\Debug\netcoreapp3.0\TemplatePattern.pdb

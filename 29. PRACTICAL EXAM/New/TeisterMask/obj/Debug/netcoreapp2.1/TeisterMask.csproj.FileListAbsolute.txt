@@ -1,0 +1,9 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\29. PRACTICAL EXAM\New\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\29. PRACTICAL EXAM\New\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\29. PRACTICAL EXAM\New\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\29. PRACTICAL EXAM\New\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\29. PRACTICAL EXAM\New\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\29. PRACTICAL EXAM\New\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\29. PRACTICAL EXAM\New\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\29. PRACTICAL EXAM\New\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\29. PRACTICAL EXAM\New\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb

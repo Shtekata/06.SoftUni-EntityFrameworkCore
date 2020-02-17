@@ -1,0 +1,13 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\bin\Debug\netcoreapp3.0\JSONDemo.exe
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\obj\Debug\netcoreapp3.0\JSONDemo.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\obj\Debug\netcoreapp3.0\JSONDemo.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\obj\Debug\netcoreapp3.0\JSONDemo.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\bin\Debug\netcoreapp3.0\JSONDemo.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\bin\Debug\netcoreapp3.0\JSONDemo.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\bin\Debug\netcoreapp3.0\JSONDemo.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\bin\Debug\netcoreapp3.0\JSONDemo.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\bin\Debug\netcoreapp3.0\JSONDemo.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\obj\Debug\netcoreapp3.0\JSONDemo.csproj.CopyComplete
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\obj\Debug\netcoreapp3.0\JSONDemo.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\17. JSON PROCESSING\JSONDemo\obj\Debug\netcoreapp3.0\JSONDemo.pdb

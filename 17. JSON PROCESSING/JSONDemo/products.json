@@ -1,0 +1,22 @@
+﻿{
+  "products":[
+    {
+      "Title": "Care One Hemorrhoidal",
+      "Price": 932.18,
+      "SellerId": 25,
+      "BuyerId": 24
+    },
+    {
+      "Title": "A",
+      "Price": 32.18,
+      "SellerId": 20,
+      "BuyerId": 30
+    },
+    {
+      "Title": "B",
+      "Price": 92,
+      "SellerId": 50,
+      "BuyerId": 70
+    }
+  ]
+}

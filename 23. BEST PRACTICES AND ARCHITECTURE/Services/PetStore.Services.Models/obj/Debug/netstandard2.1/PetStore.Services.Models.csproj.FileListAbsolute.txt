@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Services.Models.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Services.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Services.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Data.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Data.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.csproj.CopyComplete

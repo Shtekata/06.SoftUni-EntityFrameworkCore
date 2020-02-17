@@ -1,0 +1,15 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\bin\Debug\netstandard2.1\PetStore.Services.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\bin\Debug\netstandard2.1\PetStore.Services.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\bin\Debug\netstandard2.1\PetStore.Services.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\bin\Debug\netstandard2.1\PetStore.Data.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\bin\Debug\netstandard2.1\PetStore.Data.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\bin\Debug\netstandard2.1\PetStore.Services.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\bin\Debug\netstandard2.1\PetStore.Data.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\bin\Debug\netstandard2.1\PetStore.Data.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\bin\Debug\netstandard2.1\PetStore.Services.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\obj\Debug\netstandard2.1\PetStore.Services.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\obj\Debug\netstandard2.1\PetStore.Services.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\obj\Debug\netstandard2.1\PetStore.Services.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\obj\Debug\netstandard2.1\PetStore.Services.csproj.CopyComplete
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\obj\Debug\netstandard2.1\PetStore.Services.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\23. BEST PRACTICES AND ARCHITECTURE\Services\PetStore.Services\obj\Debug\netstandard2.1\PetStore.Services.pdb

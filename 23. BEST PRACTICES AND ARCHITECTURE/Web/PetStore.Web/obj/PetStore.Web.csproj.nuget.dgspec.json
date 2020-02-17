@@ -1,0 +1,349 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Web\\PetStore.Web\\PetStore.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
+        "projectName": "PetStore.Data.Models",
+        "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data\\PetStore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data\\PetStore.Data.csproj",
+        "projectName": "PetStore.Data",
+        "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data\\PetStore.Data.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services.Models\\PetStore.Services.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services.Models\\PetStore.Services.Models.csproj",
+        "projectName": "PetStore.Services.Models",
+        "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services.Models\\PetStore.Services.Models.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services\\PetStore.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services\\PetStore.Services.csproj",
+        "projectName": "PetStore.Services",
+        "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services\\PetStore.Services.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
+              },
+              "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data\\PetStore.Data.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data\\PetStore.Data.csproj"
+              },
+              "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services.Models\\PetStore.Services.Models.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services.Models\\PetStore.Services.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Web\\PetStore.Web\\PetStore.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Web\\PetStore.Web\\PetStore.Web.csproj",
+        "projectName": "PetStore.Web",
+        "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Web\\PetStore.Web\\PetStore.Web.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Web\\PetStore.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data\\PetStore.Data.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Data\\PetStore.Data\\PetStore.Data.csproj"
+              },
+              "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services\\PetStore.Services.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\23. BEST PRACTICES AND ARCHITECTURE\\Services\\PetStore.Services\\PetStore.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

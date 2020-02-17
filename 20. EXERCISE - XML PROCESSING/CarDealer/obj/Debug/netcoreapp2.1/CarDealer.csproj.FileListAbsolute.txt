@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\20. EXERCISE - XML PROCESSING\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

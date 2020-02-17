@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\08. EXERCISE - ENTITYFRAMEWORK INTRODUCTION\DbFirstExecise\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache

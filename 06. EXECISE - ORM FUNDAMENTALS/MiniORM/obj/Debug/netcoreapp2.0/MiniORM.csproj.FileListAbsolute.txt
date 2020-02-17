@@ -1,0 +1,8 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\06. EXECISE - ORM FUNDAMENTALS\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\06. EXECISE - ORM FUNDAMENTALS\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\06. EXECISE - ORM FUNDAMENTALS\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\06. EXECISE - ORM FUNDAMENTALS\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\06. EXECISE - ORM FUNDAMENTALS\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\06. EXECISE - ORM FUNDAMENTALS\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\06. EXECISE - ORM FUNDAMENTALS\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\06. EXECISE - ORM FUNDAMENTALS\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb

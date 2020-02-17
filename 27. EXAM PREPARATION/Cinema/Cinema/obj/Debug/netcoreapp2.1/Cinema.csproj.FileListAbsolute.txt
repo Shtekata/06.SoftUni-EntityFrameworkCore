@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\27. EXAM PREPARATION\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\10. EXERCISE - CODE - FIRST\Code - First - Exercise\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csprojAssemblyReference.cache

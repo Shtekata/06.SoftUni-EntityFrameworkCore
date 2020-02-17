@@ -1,0 +1,13 @@
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\16. EXERCISE - C# AUTO MAPPING OBJECTS\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb

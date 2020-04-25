@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\PetStore.Data.csproj": {}
+    "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\PetStore.Data.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+    "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
         "projectName": "PetStore.Data.Models",
-        "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
+        "projectPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
         "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\obj\\",
+        "outputPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,18 +62,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\PetStore.Data.csproj": {
+    "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\PetStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\PetStore.Data.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\PetStore.Data.csproj",
         "projectName": "PetStore.Data",
-        "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\PetStore.Data.csproj",
+        "projectPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\PetStore.Data.csproj",
         "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\obj\\",
+        "outputPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -92,8 +92,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
-                "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
+              "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\26. WORKSHOP2 - ASP.NET CORE\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
               }
             }
           }
@@ -134,7 +134,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

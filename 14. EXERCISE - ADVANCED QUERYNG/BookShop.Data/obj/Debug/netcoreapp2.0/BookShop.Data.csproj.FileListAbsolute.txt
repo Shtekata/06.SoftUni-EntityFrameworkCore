@@ -9,3 +9,14 @@ D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED
 D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CopyComplete
 D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.dll
 D:\OneDrive\Projects\06. SoftUni - Entity Framework Core\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.deps.json
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csprojAssemblyReference.cache
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfo.cs
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CopyComplete
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\OneDrive\Projects\06.SoftUni-EntityFrameworkCore\14. EXERCISE - ADVANCED QUERYNG\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.pdb

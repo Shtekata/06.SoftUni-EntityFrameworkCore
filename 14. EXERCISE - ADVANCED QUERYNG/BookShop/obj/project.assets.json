@@ -5089,11 +5089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\14. EXERCISE - ADVANCED QUERYNG\\BookShop\\BookShop.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\14. EXERCISE - ADVANCED QUERYNG\\BookShop\\BookShop.csproj",
       "projectName": "BookShop",
-      "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\14. EXERCISE - ADVANCED QUERYNG\\BookShop\\BookShop.csproj",
+      "projectPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\14. EXERCISE - ADVANCED QUERYNG\\BookShop\\BookShop.csproj",
       "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\14. EXERCISE - ADVANCED QUERYNG\\BookShop\\obj\\",
+      "outputPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\14. EXERCISE - ADVANCED QUERYNG\\BookShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5112,14 +5112,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Data\\BookShop.Data.csproj": {
-              "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Data\\BookShop.Data.csproj"
+            "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Data\\BookShop.Data.csproj": {
+              "projectPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Data\\BookShop.Data.csproj"
             },
-            "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Initializer\\BookShop.Initializer.csproj": {
-              "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Initializer\\BookShop.Initializer.csproj"
+            "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Initializer\\BookShop.Initializer.csproj": {
+              "projectPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Initializer\\BookShop.Initializer.csproj"
             },
-            "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Models\\BookShop.Models.csproj": {
-              "projectPath": "D:\\OneDrive\\Projects\\06. SoftUni - Entity Framework Core\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Models\\BookShop.Models.csproj"
+            "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Models\\BookShop.Models.csproj": {
+              "projectPath": "D:\\OneDrive\\Projects\\06.SoftUni-EntityFrameworkCore\\14. EXERCISE - ADVANCED QUERYNG\\BookShop.Models\\BookShop.Models.csproj"
             }
           }
         }
@@ -5170,7 +5170,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   },
